@@ -8,13 +8,13 @@ Original README from Dan Bernstein:
 
 ----
 
-djbdns 1.05
-20010211
-Copyright 2001
-D. J. Bernstein
-
-djbdns home page: http://cr.yp.to/djbdns.html
-Installation instructions: http://cr.yp.to/djbdns/install.html
+    djbdns 1.05
+    20010211
+    Copyright 2001
+    D. J. Bernstein
+    
+    djbdns home page: http://cr.yp.to/djbdns.html
+    Installation instructions: http://cr.yp.to/djbdns/install.html
 
 ----
 
